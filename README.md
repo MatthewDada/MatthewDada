@@ -1,8 +1,5 @@
 ### Hi there 👋
-
-<!--
-**MatthewDada/MatthewDada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+### I'm Matthew.
 
 - 🔭 I’m currently working on improving my Data Analysis/ Dada Science skills 
 - 🌱 I’m currently learning Machine Learning models
@@ -10,4 +7,3 @@
 - 🤔 I’m looking for help with how to succeed well in this career path
 - 📫 How to reach me: matthewdada77@gmail.com
 - ⚡ Fun fact: I love playing chess, watching football, and tutoring.
--->
